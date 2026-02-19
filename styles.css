@@ -1677,7 +1677,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: rgb(9, 74, 136);
+    background: #000;
 }
 
 
@@ -1760,6 +1760,7 @@ body {
 .card:hover .back {
     transform: perspective(600px) rotateY(360deg);
 }
+
 
 
 
