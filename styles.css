@@ -14,7 +14,7 @@ h2{
     text-align: center;
 }
 .body {
-  display: flex;
+  display: gird;
   align-items: flex-end;
   justify-content: center;
   min-height: 100vh;
@@ -1760,6 +1760,7 @@ body {
 .card:hover .back {
     transform: perspective(600px) rotateY(360deg);
 }
+
 
 
 
