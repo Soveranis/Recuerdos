@@ -1618,7 +1618,7 @@ body, h1, p {
 /* Estilos generales */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #0000;
+  background-color: #000;
   color: #333;
 }
 
@@ -1757,6 +1757,7 @@ body {
 .card:hover .back {
     transform: perspective(600px) rotateY(360deg);
 }
+
 
 
 
