@@ -13,15 +13,7 @@ h2{
       color: white;
     text-align: center;
 }
-.body {
-  display: gird;
-  align-items: flex-end;
-  justify-content: center;
-  min-height: 100vh;
-  background-color: var(--dark-color);
-  overflow: hidden;
-  perspective: 1000px;
-}
+
 
 #lyrics {
   font-size: 28px;
@@ -1760,6 +1752,7 @@ body {
 .card:hover .back {
     transform: perspective(600px) rotateY(360deg);
 }
+
 
 
 
