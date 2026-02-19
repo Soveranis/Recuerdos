@@ -9,7 +9,10 @@
 :root {
   --dark-color: #000;
 }
-
+h2{
+      color: white;
+    text-align: center;
+}
 .body {
   display: flex;
   align-items: flex-end;
@@ -1757,6 +1760,7 @@ body {
 .card:hover .back {
     transform: perspective(600px) rotateY(360deg);
 }
+
 
 
 
